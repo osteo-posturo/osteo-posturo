@@ -1,3 +1,27 @@
 User-agent: *
 Allow: /
+
+# Moteurs de recherche
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# IA génératives
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
 Sitemap: https://www.osteo-posturo.fr/sitemap.xml
